@@ -3,5 +3,5 @@
   "buildNumber": 2,
   "apkUrl": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player.apk",
   "forceUpdate": true,
-  "changelog": "• Otomatik ve zorunlu güncelleme aktif edildi.\n• Arayüz iyileştirmeleri ve performans optimizasyonları yapıldı."
+  "changelog": "• Otomatik ve zorunlu güncelleme aktif edildi.\n• Arka planda indirme esnasında ekranın kapanmasını önleyen Wakelock desteği eklendi."
 }
