@@ -1,1 +1,7 @@
-﻿{"version": "1.0.0", "buildNumber": 1, "apkUrl": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player.apk", "forceUpdate": true, "changelog": "Ä°lk stabil sÃ¼rÃ¼m v1.0.0."}
+{
+  "version": "1.0.2",
+  "buildNumber": 3,
+  "apkUrl": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player.apk",
+  "forceUpdate": true,
+  "changelog": "• Premium VOD Ozellikleri (Ses/Altyazi Fallback, Sonraki Bolum Geri Sayimi, Turkce Altyazi Karakter Duzeltici, D-Pad Hizli Arama) ve Mobil .ts Yayini"
+}
