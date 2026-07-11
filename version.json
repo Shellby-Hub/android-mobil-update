@@ -1,12 +1,13 @@
-{
-  "version": "1.0.7",
-  "buildNumber": 8,
-  "apkUrl": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
-  "apkUrls": {
-    "armeabi-v7a": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk",
-    "arm64-v8a": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
-    "x86_64": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk"
-  },
+﻿{
+  "version": "1.0.12",
+  "buildNumber": 13,
   "forceUpdate": true,
-  "changelog": "Alfa IPTV Premium UI/UX ve Klavye Sorun Giderme Surumu"
+  "changelog": "v1.0.12 güncellemesi",
+  "releaseDate": "2026-07-11",
+  "sha256": "a409d40e471389192bf6128f9c1db07da942bcf6f2cf2c4774cbc936ac723e78",
+  "apkUrls": {
+    "arm64-v8a":   "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player.apk",
+    "x86_64":      "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player.apk"
+  }
 }
