@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "buildNumber": 19,
+  "version": "1.0.19",
+  "buildNumber": 20,
   "apkUrl": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
   "apkUrls": {
     "armeabi-v7a": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk",
@@ -8,5 +8,5 @@
     "x86_64": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk"
   },
   "forceUpdate": true,
-  "changelog": "v1.0.18 GÃ¼ncellemesi - Otomatik YayÄ±nlama"
+  "changelog": "v1.0.19 GÃ¼ncellemesi - Otomatik YayÄ±nlama"
 }
