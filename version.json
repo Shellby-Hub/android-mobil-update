@@ -1,6 +1,6 @@
 {
-  "version": "1.0.29",
-  "buildNumber": 30,
+  "version": "1.0.30",
+  "buildNumber": 31,
   "apkUrl": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
   "apkUrls": {
     "armeabi-v7a": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk",
@@ -8,5 +8,5 @@
     "x86_64": "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk"
   },
   "forceUpdate": true,
-  "changelog": "v1.0.29 GÃ¼ncellemesi - Otomatik YayÄ±nlama"
+  "changelog": "ğŸš€ Alfa IPTV v1.0.30 GÃ¼ncelleme NotlarÄ±:\n\nğŸ“· WhatsApp Stili GÃ¶rsel Ã–nizleme (Ã‡izim, Metin, Filtre, HD, DÃ¶ndÃ¼rme & AÃ§Ä±klama)\nâš¡ GerÃ§ek ZamanlÄ± Temsilci & AI CanlÄ± VarlÄ±k Takibi\nâœ¨ Mesajlarda TÄ±klanabilir Linkler & 1-TÄ±k IBAN Kopyalama KartÄ±\nğŸ¤ Sesli Mesaj YÃ¼kleme & Sohbet Performans Ä°yileÅŸtirmeleri"
 }
