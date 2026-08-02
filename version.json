@@ -1,12 +1,14 @@
 {
-    "version":  "1.0.43",
-    "buildNumber":  44,
+    "version":  "1.0.44",
+    "buildNumber":  45,
+    "releaseDate":  "2026-08-02",
     "apkUrl":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
+    "apkSizeMB":  37.9,
     "apkUrls":  {
                     "armeabi-v7a":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk",
                     "arm64-v8a":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
                     "x86_64":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk"
                 },
     "forceUpdate":  true,
-    "changelog":  "🚀 Alfa IPTV v1.0.43 Güncelleme Notları:\n\n📺 Dizi Detay \u0026 Bölüm Yükleme Hızlandırması (0ms Instant Render)\n⚡ Player UI/UX İyileştirmeleri \u0026 Mükerrer Geri Buton Düzeltmesi\n🔧 500 Sunucu Hatası Yumuşak Geçiş (Soft Fallback)\n💎 Türkçe Karakter \u0026 UTF-8 Bildirim Düzeltmesi"
+    "changelog":  "v1.0.44 Update - 2026-08-02"
 }
