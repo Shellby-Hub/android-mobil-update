@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.44",
-    "buildNumber":  45,
+    "version":  "1.0.45",
+    "buildNumber":  46,
     "releaseDate":  "2026-08-02",
     "apkUrl":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
     "apkSizeMB":  37.9,
@@ -10,5 +10,5 @@
                     "x86_64":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk"
                 },
     "forceUpdate":  true,
-    "changelog":  "v1.0.44 Update - 2026-08-02"
+    "changelog":  "v1.0.45 Update - 2026-08-02"
 }
