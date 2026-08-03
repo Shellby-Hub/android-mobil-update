@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.49",
-    "buildNumber":  49,
+    "version":  "1.0.51",
+    "buildNumber":  51,
     "releaseDate":  "2026-08-03",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.49-49",
+    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.51-51",
     "apkSizeMB":  122.6,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.49-49",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.49-49",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.49-49"
+                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.51-51",
+                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.51-51",
+                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.51-51"
                 },
     "sha256":  {
-                   "armeabi-v7a":  "60df4da30f582b460e330aecbf3df3cbddb8dbe19d070e6ff6fd549d86d55317",
-                   "arm64-v8a":  "954ebb080b2aceaa42e75cfd24669aa9f610737c1fa56aca74be031ace474b15",
-                   "x86_64":  "8d8e6ef60f92cd310cf827ab54d5cbf34bc7d6fcd20b8dfb3a586903f3004a04"
+                   "armeabi-v7a":  "f75deeadd578aee2230820f38b8dd01014ef94afb0c7446e565f3bff0c1380dd",
+                   "arm64-v8a":  "299726ee4d1bc31155a04e86863af6133ac3462614cb698d752686dab64bb22b",
+                   "x86_64":  "4dd1e078e48750f14de63a42f0523421d9c76fbf165543a46a41f2bf9dff9f6e"
                },
     "forceUpdate":  true,
-    "changelog":  "v1.0.49 Update - 2026-08-03"
+    "changelog":  "v1.0.51 Update - 2026-08-03"
 }
