@@ -1,14 +1,19 @@
 {
-    "version":  "1.0.46",
-    "buildNumber":  47,
+    "version":  "1.0.50",
+    "buildNumber":  50,
     "releaseDate":  "2026-08-03",
-    "apkUrl":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
-    "apkSizeMB":  37.9,
+    "apkUrl":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.50-50",
+    "apkSizeMB":  122.6,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk",
-                    "arm64-v8a":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk",
-                    "x86_64":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk"
+                    "armeabi-v7a":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.50-50",
+                    "arm64-v8a":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.50-50",
+                    "x86_64":  "https://raw.githubusercontent.com/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.50-50"
                 },
+    "sha256":  {
+                   "armeabi-v7a":  "c29f6da99e0e9a730e7cf63d1a2a301c7e969c5524a16c8c0ebd1a80435f7e18",
+                   "arm64-v8a":  "94078005b7b8c6645b4a389c59cd349efcb81b98c1db6b9948b047d31b2f87db",
+                   "x86_64":  "5e481e09b967b28ec5aea3084581946d39907b5b364c250c93f99580a65814d8"
+               },
     "forceUpdate":  true,
-    "changelog":  "v1.0.46 Update - 2026-08-03"
+    "changelog":  "v1.0.50 Update - 2026-08-03"
 }
