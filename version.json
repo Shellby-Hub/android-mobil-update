@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.55",
-    "buildNumber":  55,
-    "releaseDate":  "2026-08-10",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.55-55",
+    "version":  "1.0.56",
+    "buildNumber":  56,
+    "releaseDate":  "2026-08-16",
+    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.56-56",
     "apkSizeMB":  25.3,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.55-55",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.55-55",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.55-55"
+                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.56-56",
+                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.56-56",
+                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.56-56"
                 },
     "sha256":  {
-                   "armeabi-v7a":  "70ad43c2d1fb3432374fede332a6841eec7d4a58c9979991c2103762a920a9b6",
-                   "arm64-v8a":  "07191866fb103c22a75a49b25d16623ed74e7047ffd837ebcd4289ea2279d88f",
-                   "x86_64":  "64a6c7ec621cd6cce5058f1fafadcbd709cc87f8f663edc7897302cc1a60c837"
+                   "armeabi-v7a":  "eac7c9da3651115adae2eefae14fa1de9bb49066a43c04de9ca2b74b03cf3f88",
+                   "arm64-v8a":  "7da53c2808fda1752441a37f7f58abd2244291b320608aeda5f0059a963ec5ef",
+                   "x86_64":  "26b7335bddbe739865c9ac54a989b55f34b5d8de3aa73634d12ac579a35ba945"
                },
     "forceUpdate":  true,
-    "changelog":  "v1.0.55 Update - 2026-08-10"
+    "changelog":  "v1.0.56 Update - 2026-08-16"
 }
