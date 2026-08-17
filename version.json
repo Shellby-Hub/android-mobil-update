@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.56",
-    "buildNumber":  56,
-    "releaseDate":  "2026-08-16",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.56-56",
+    "version":  "1.0.57",
+    "buildNumber":  57,
+    "releaseDate":  "2026-08-17",
+    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.57-57",
     "apkSizeMB":  25.3,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.56-56",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.56-56",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.56-56"
+                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.57-57",
+                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.57-57",
+                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.57-57"
                 },
     "sha256":  {
-                   "armeabi-v7a":  "eac7c9da3651115adae2eefae14fa1de9bb49066a43c04de9ca2b74b03cf3f88",
-                   "arm64-v8a":  "7da53c2808fda1752441a37f7f58abd2244291b320608aeda5f0059a963ec5ef",
-                   "x86_64":  "26b7335bddbe739865c9ac54a989b55f34b5d8de3aa73634d12ac579a35ba945"
+                   "armeabi-v7a":  "422cbe7425ea41c6f2c4add7ba8bc5541cc09cbedf4045b6569ebc1bf9a7fa00",
+                   "arm64-v8a":  "9db00c188a9f289ccdfd3950842acb1ad8be2a5fdd382d3a5bd136da1ae6314c",
+                   "x86_64":  "bbc57b5ddbca63a3f15478213b58da74c11aa4ce1d3cfa7c2ce725c6feb5ab57"
                },
     "forceUpdate":  true,
-    "changelog":  "v1.0.56 Update - 2026-08-16"
+    "changelog":  "v1.0.57 Guncelleme Notlari:\n- VOD \u0026 GerÃ§ek Cihaz Siyah Ekran Fix: Ses codec (EAC3/AC3) donanÄ±m uyumsuzluklarÄ±nda video oynatÄ±mÄ±nÄ±n donmasÄ± engellendi.\n- OynatÄ±cÄ± Buton / Loading UX DÃ¼zeltmesi: OynatÄ±cÄ± kontrolleri ve yÃ¼kleme gÃ¶stergeleri senkronize edildi.\n- Harici OynatÄ±cÄ± \u0026 Dogrudan APK Indirme: VLC, Just Player, Kodi ve MX Player icin Play Store ve direkt calisan resmi APK indirme butonlari eklendi.\n- Onbellek Boyutu \u0026 LRU Optimizasyonu: Gorsel onbellek 1 gun ve 150 obje ile sinirlandirildi, derin onbellek temizleme entegre edildi.\n- Android TV \u0026 Mobil Senkronizasyon: D-Pad odak yonetimi ve arayuz iyilestirmeleri tamamlandi."
 }
