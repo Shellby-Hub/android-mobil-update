@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.58",
-    "buildNumber":  58,
+    "version":  "1.0.59",
+    "buildNumber":  59,
     "releaseDate":  "2026-08-22",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.58-58",
+    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.59-59",
     "apkSizeMB":  25.3,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.58-58",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.58-58",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.58-58"
+                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.59-59",
+                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.59-59",
+                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.59-59"
                 },
     "sha256":  {
-                   "armeabi-v7a":  "8e5bac91c3533ac8479e3a0f73c7ca6d1bf192ddf549a61a08ea2b70a930aeed",
-                   "arm64-v8a":  "0b3e0d4e1d909d423dd7be48d8b95980529e167b6d1bd76a4a4c82ca6ea9a719",
-                   "x86_64":  "6bde8720943825f99da0679eb33c9c5a74223c9bd69a5c2aeb3989174adab0e2"
+                   "armeabi-v7a":  "06dbbda937bee06c3e61b78731c504a9134c366ded63e41bf6336e3ecdcb955e",
+                   "arm64-v8a":  "54d1763385485f0afd69f583493dc3098f853aceb04623bebb76fa9433bab47f",
+                   "x86_64":  "31e0994ccf5ea0680e16f857d55843dfb8c9d28e9e9d099fec4cfd23721a0b20"
                },
     "forceUpdate":  true,
-    "changelog":  "v1.0.58 Guncelleme Notlari:\n- Canli TV \u0026 EPG Bar Optimizasyonu: EPG verisi bulunmayan kanallarda bos EPG bari otomatik olarak gizlendi.\n- Canli Yayin \u0026 VOD ExoPlayer Korumasi: Kesintisiz akis icin onbellek ve donma onleyici watchdog optimizasyonu yapildi.\n- Dizi Bildirim Altyapisi: Dizi takip ve yeni bolum eklendiginde anlik bildirim sistemi guclendirildi.\n- Bellek \u0026 OOM Yonetimi: Otomatik resim onbellegi ve oynatici kaynak temizligi entegre edildi.\n- Performans \u0026 Stabilite: Ekranlar arasi gecis akiciligi ve 60 FPS UI optimizasyonu saglandi."
+    "changelog":  "v1.0.59 Guncelleme Notlari:\n- Canli TV \u0026 EPG Bar Optimizasyonu: EPG verisi bulunmayan kanallarda bos EPG bari otomatik olarak gizlendi.\n- Canli Yayin \u0026 VOD ExoPlayer Korumasi: Kesintisiz akis icin onbellek ve donma onleyici watchdog optimizasyonu yapildi.\n- Dizi Bildirim Altyapisi: Dizi takip ve yeni bolum eklendiginde anlik bildirim sistemi guclendirildi.\n- Bellek \u0026 OOM Yonetimi: Otomatik resim onbellegi ve oynatici kaynak temizligi entegre edildi.\n- Performans \u0026 Stabilite: Ekranlar arasi gecis akiciligi ve 60 FPS UI optimizasyonu saglandi."
 }
