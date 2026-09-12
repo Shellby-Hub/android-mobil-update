@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.62",
-    "buildNumber":  62,
-    "releaseDate":  "2026-09-10",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.62-62",
+    "version":  "1.0.63",
+    "buildNumber":  63,
+    "releaseDate":  "2026-09-12",
+    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.63-63",
     "apkSizeMB":  25.3,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.62-62",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.62-62",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.62-62"
+                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.63-63",
+                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.63-63",
+                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.63-63"
                 },
     "sha256":  {
-                   "armeabi-v7a":  "419d3e7bb583531c188b6e4cb4d748559353d81f1c56f2b2a4aa35a338e732ac",
-                   "arm64-v8a":  "e0815b2edf293accae9b6d3131f10633eb6c15cb0e7a3ab1e31c38d2929d388f",
-                   "x86_64":  "c40070887801a11ce26726624b5ff76d68666971e5316ed20a9e7b2edc5513ba"
+                   "armeabi-v7a":  "48e2109728dabba1c06a9c7e2f0073e6b486db4ce41a8418c3cfad661a271da2",
+                   "arm64-v8a":  "08927e563564e952b6ceaf886faaf4abac5ec4a6f47e6b1f992f611f989ffac5",
+                   "x86_64":  "5f2a29c7d9a901f00b645199bda7a11a07023f361670d7b08556581455686ea0"
                },
     "forceUpdate":  true,
-    "changelog":  "v1.0.62 Guncelleme Notlari:\n- Ekran Kararma ve Kapanma Korumasi: Video ve canli yayin izlerken ekranin kararmasi/kapanmasi donanimsal wakelock ile tamamen engellendi.\n- Bildirim Paneli Kesintisiz Akis: Ust bildirim paneli asagi cekildiginde yayinin duraklamasi onlendi, kesintisiz oynatma saglandi.\n- Puruzsuz PiP (Picture-in-Picture): Android 12+ donanimsal auto-enter PiP ile donma ve yeniden baslatma olmaksizin akici gecis saglandi.\n- VLC Tarzi Hizli Yayin Kurtarma: Canli yayin donma tespiti 4 saniyeye indirildi; ekran kararmadan aninda yerinde soket yenileme entegre edildi.\n- Gelismis Tampon (Buffer) Performansi: Canli yayin tampon esigi optimize edilerek aninda baslama ve takilmadan cikma performansi artirildi."
+    "changelog":  "v1.0.63 Guncelleme Notlari:\n- Ekran Kararma ve Kapanma Korumasi: Video ve canli yayin izlerken ekranin kararmasi/kapanmasi donanimsal wakelock ile tamamen engellendi.\n- Bildirim Paneli Kesintisiz Akis: Ust bildirim paneli asagi cekildiginde yayinin duraklamasi onlendi, kesintisiz oynatma saglandi.\n- Puruzsuz PiP (Picture-in-Picture): Android 12+ donanimsal auto-enter PiP ile donma ve yeniden baslatma olmaksizin akici gecis saglandi.\n- VLC Tarzi Hizli Yayin Kurtarma: Canli yayin donma tespiti 4 saniyeye indirildi; ekran kararmadan aninda yerinde soket yenileme entegre edildi.\n- Gelismis Tampon (Buffer) Performansi: Canli yayin tampon esigi optimize edilerek aninda baslama ve takilmadan cikma performansi artirildi."
 }
