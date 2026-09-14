@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.67",
-    "buildNumber":  67,
-    "releaseDate":  "2026-09-14",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.67-67",
-    "apkSizeMB":  26.1,
-    "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.67-67",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.67-67",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.67-67"
-                },
-    "sha256":  {
-                   "armeabi-v7a":  "c7cdc87acd5d07bb3cf508a363275d1f597bb63cfbc5e6597365d6727325aeb7",
-                   "arm64-v8a":  "a42a94082f5aa3ea501e605daaed9600bc917c1f47bf70fdb366461fa7e57c48",
-                   "x86_64":  "ad75cf31ff9b506154e9a2116768f4e9711eb537fda1a8b96807ce96acb06716"
-               },
-    "forceUpdate":  true,
-    "changelog":  "v1.0.67 Guncelleme Notlari:\n- Canli Yayin Sessiz Kurtarma (VLC Modu): Yayin dondugunde veya takildiginda ekrana \u0027Yukleniyor...\u0027 modalinin gelmesi tamamen kaldirildi; ekran blurlanmadan son karede sessizce bekleyip akisa devam eder.\n- Dikissiz Gecis ve Tamponlama: Tampon esikleri optimize edildi; mikro dalgalanmalarda ekran kararmasi ve toast uyarilari engellendi.\n- Ekran Kararma ve Kapanma Korumasi: Video ve canli yayin izlerken ekranin kararmasi/kapanmasi donanimsal wakelock ile tamamen engellendi.\n- Bildirim Paneli Kesintisiz Akis: Ust bildirim paneli asagi cekildiginde yayinin duraklamasi onlendi, kesintisiz oynatma saglandi.\n- Puruzsuz PiP (Picture-in-Picture): Android 12+ donanimsal auto-enter PiP ile donma ve yeniden baslatma olmaksizin akici gecis saglandi."
+  "version": "1.0.66",
+  "buildNumber": 66,
+  "releaseDate": "2026-09-14",
+  "apkUrl": "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.67-67",
+  "apkSizeMB": 26.1,
+  "apkUrls": {
+    "armeabi-v7a": "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.67-67",
+    "arm64-v8a": "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.67-67",
+    "x86_64": "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.67-67"
+  },
+  "sha256": {
+    "armeabi-v7a": "c7cdc87acd5d07bb3cf508a363275d1f597bb63cfbc5e6597365d6727325aeb7",
+    "arm64-v8a": "a42a94082f5aa3ea501e605daaed9600bc917c1f47bf70fdb366461fa7e57c48",
+    "x86_64": "ad75cf31ff9b506154e9a2116768f4e9711eb537fda1a8b96807ce96acb06716"
+  },
+  "forceUpdate": false,
+  "changelog": "v1.0.67 Guncelleme Notlari:\n- Canli Yayin Sessiz Kurtarma (VLC Modu): Yayin dondugunde veya takildiginda ekrana 'Yukleniyor...' modalinin gelmesi tamamen kaldirildi; ekran blurlanmadan son karede sessizce bekleyip akisa devam eder.\n- Dikissiz Gecis ve Tamponlama: Tampon esikleri optimize edildi; mikro dalgalanmalarda ekran kararmasi ve toast uyarilari engellendi.\n- Ekran Kararma ve Kapanma Korumasi: Video ve canli yayin izlerken ekranin kararmasi/kapanmasi donanimsal wakelock ile tamamen engellendi.\n- Bildirim Paneli Kesintisiz Akis: Ust bildirim paneli asagi cekildiginde yayinin duraklamasi onlendi, kesintisiz oynatma saglandi.\n- Puruzsuz PiP (Picture-in-Picture): Android 12+ donanimsal auto-enter PiP ile donma ve yeniden baslatma olmaksizin akici gecis saglandi."
 }
