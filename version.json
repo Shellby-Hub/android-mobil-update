@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.72",
-    "buildNumber":  72,
-    "releaseDate":  "2026-10-07",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.72-72",
+    "version":  "1.0.73",
+    "buildNumber":  73,
+    "releaseDate":  "2026-10-10",
+    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.73-73",
     "apkSizeMB":  26.3,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.72-72",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.72-72",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.72-72"
+                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.73-73",
+                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.73-73",
+                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.73-73"
                 },
     "sha256":  {
-                   "armeabi-v7a":  "7c91e8c6cc29d1bc04d19326718cbe1af6bc48379b13bb4c80f83a111ce84782",
-                   "arm64-v8a":  "107a254babc1fc800aeddb3f44adeb8be459bb4796118b234d50e619525fc720",
-                   "x86_64":  "d20353b8e884f5b2cf3bde867d0af6d93ffefa13f0542517d6afb13222a09c3e"
+                   "armeabi-v7a":  "d6a7f3268f5add394e03123165c4a77f288a5dcda340103b22ea2bdf8df063b7",
+                   "arm64-v8a":  "559f5c7c60c063a0786c750f44276408ae6ea06b01fc7f725839e9baa6224d92",
+                   "x86_64":  "237892e9f383a332cb8416b5ab59f0abc24a9a048b89e02ee1711dca613f55c7"
                },
     "forceUpdate":  true,
-    "changelog":  "v1.0.72 Güncelleme Notları:\n• Trendyol Tarzı Zengin Bildirimler: Maç, paket ve kampanya duyuruları artık büyük afiş görselleri ve doğrudan açılan hızlı linklerle anında telefonunuza düşer.\n• Akıllı Telefon ve TV Modu: Android TV ve telefonlar için bildirim sistemi ayrıştırıldı; televizyonunuzu kasmayan, telefonunuzda ise sesli ve afişli kusursuz bildirim deneyimi sağlandı.\n• Dikey Video (Shorts/Reels) Desteği: Dikey çekilmiş kısa filmler ve videolar artık ters dönmeden, tam ekranda ve kayıpsız oynatılıyor.\n• Tek Tıkla Video Döndürme: Oynatıcı menüsündeki yeni \"Döndür\" butonu ile videoları tek dokunuşla istediğiniz yöne çevirebilirsiniz.\n• Akıllı İntro Atlama: Dizi ve filmlerdeki \"İntroyu Atla\" butonuna 7 saniyelik geri sayım sayacı eklendi; basılmadığında otomatik kaybolur.\n• Gelişmiş \"İzlemeye Devam Et\": Yarım kalan içeriklere devam etme uyarısı ve kontroller artık geniş ekranda tam hizalı olarak açılıyor.\n• Kusursuz Menü ve Buton Düzeni: Oynatıcı alt menüsündeki butonlar ekran taşması yapmayacak şekilde ekrana tam oturacak biçimde yenilendi.\n• Afiş ve Logo İyileştirmesi: Afişi olmayan içeriklerdeki karışıklık giderildi; Alfa logosu net ve sade hale getirildi.\n• Hızlı Başlatma ve Performans: Sayfa geçişlerindeki takılmalar giderildi, bellek tüketimi düşürülerek kanal açılış hızları artırıldı."
+    "changelog":  "v1.0.73 Güncelleme Notları:\n• Trendyol Tarzı Zengin Bildirimler: Maç, paket ve kampanya duyuruları artık büyük afiş görselleri ve doğrudan açılan hızlı linklerle anında telefonunuza düşer.\n• Akıllı Telefon ve TV Modu: Android TV ve telefonlar için bildirim sistemi ayrıştırıldı; televizyonunuzu kasmayan, telefonunuzda ise sesli ve afişli kusursuz bildirim deneyimi sağlandı.\n• Dikey Video (Shorts/Reels) Desteği: Dikey çekilmiş kısa filmler ve videolar artık ters dönmeden, tam ekranda ve kayıpsız oynatılıyor.\n• Tek Tıkla Video Döndürme: Oynatıcı menüsündeki yeni \"Döndür\" butonu ile videoları tek dokunuşla istediğiniz yöne çevirebilirsiniz.\n• Akıllı İntro Atlama: Dizi ve filmlerdeki \"İntroyu Atla\" butonuna 7 saniyelik geri sayım sayacı eklendi; basılmadığında otomatik kaybolur.\n• Gelişmiş \"İzlemeye Devam Et\": Yarım kalan içeriklere devam etme uyarısı ve kontroller artık geniş ekranda tam hizalı olarak açılıyor.\n• Kusursuz Menü ve Buton Düzeni: Oynatıcı alt menüsündeki butonlar ekran taşması yapmayacak şekilde ekrana tam oturacak biçimde yenilendi.\n• Afiş ve Logo İyileştirmesi: Afişi olmayan içeriklerdeki karışıklık giderildi; Alfa logosu net ve sade hale getirildi.\n• Hızlı Başlatma ve Performans: Sayfa geçişlerindeki takılmalar giderildi, bellek tüketimi düşürülerek kanal açılış hızları artırıldı."
 }
