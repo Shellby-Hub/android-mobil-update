@@ -1,19 +1,19 @@
 {
-    "version":  "1.0.74",
-    "buildNumber":  74,
-    "releaseDate":  "2026-10-21",
-    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.74-74",
-    "apkSizeMB":  26.3,
+    "version":  "1.0.75",
+    "buildNumber":  75,
+    "releaseDate":  "2026-11-09",
+    "apkUrl":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.75-75",
+    "apkSizeMB":  26.6,
     "apkUrls":  {
-                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.74-74",
-                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.74-74",
-                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.74-74"
+                    "armeabi-v7a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-armeabi-v7a.apk?v=1.0.75-75",
+                    "arm64-v8a":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-arm64-v8a.apk?v=1.0.75-75",
+                    "x86_64":  "https://media.githubusercontent.com/media/Shellby-Hub/android-mobil-update/main/alfa_iptv_player-x86_64.apk?v=1.0.75-75"
                 },
     "sha256":  {
-                   "armeabi-v7a":  "c5796b8868328634e0e20d50ba664be7eb49304748478effef7d469d89e6e11f",
-                   "arm64-v8a":  "6efd2f2c2b8db71ec673ab0cba931718725507f18da664bd5c839d0dd0b6b832",
-                   "x86_64":  "30c99b1506626b56de9ad0609794782ac47ee3e53cfa17d65be809e5ed84d5c7"
+                   "armeabi-v7a":  "be679bf0b7c1993c3b8119e94ec35e884a069262c169d0bf42feaa92577df887",
+                   "arm64-v8a":  "a32bbcded56ac80928c4ba50ee4005d5241fecdfd401c0f9e93a2752be7030b6",
+                   "x86_64":  "f3be3c0d6daa7f1e99e82990fd5336c6482f460a5010963376b444d25add2242"
                },
     "forceUpdate":  true,
-    "changelog":  "v1.0.74 GÃ¼ncelleme NotlarÄ±:\nâ€¢ AkÄ±llÄ± Ekran YÃ¶nÃ¼: Uygulama arka plana alÄ±nÄ±p geri dÃ¶nÃ¼ldÃ¼ÄŸÃ¼nde yatay ekranda takÄ±lÄ± kalma sorunu giderildi; dikey gÃ¶rÃ¼nÃ¼m anÄ±nda otomatik geri yÃ¼klenir.\nâ€¢ Kusursuz PiP (Resim Ä°Ã§inde Resim): Sadece video izlenirken PiP moduna geÃ§ilir; ana sayfa ve diÄŸer menÃ¼lerde Home tuÅŸuna basÄ±ldÄ±ÄŸÄ±nda gereksiz kÃ¼Ã§Ã¼lme engellendi.\nâ€¢ Android TV Ã–zel GÃ¼ncelleme EkranÄ±: Televizyon, TV Box ve Stick cihazlarÄ±ndaki ekran taÅŸmalarÄ± giderildi; 16:9 geniÅŸ ekran ve kumanda (D-Pad) odaklÄ± yeni gÃ¼ncelleme paneli eklendi.\nâ€¢ Real-Time Liste Yenileme: Sunucu senkronizasyonu gÃ¼Ã§lendirildi; kanal ve iÃ§erik listeleri artÄ±k anlÄ±k olarak kesintisiz yenilenir.\nâ€¢ Trendyol TarzÄ± Zengin Bildirimler: MaÃ§, dizi ve kampanya duyurularÄ± bÃ¼yÃ¼k afiÅŸ gÃ¶rselleri ve doÄŸrudan aÃ§Ä±lan hÄ±zlÄ± linklerle telefonunuza iletilir.\nâ€¢ Dikey Video \u0026 HÄ±zlÄ± DÃ¶ndÃ¼rme: Dikey Ã§ekim iÃ§erikler kayÄ±psÄ±z tam ekranda oynatÄ±lÄ±r, menÃ¼deki \u0027DÃ¶ndÃ¼r\u0027 butonuyla tek tÄ±kla yÃ¶n deÄŸiÅŸtirilebilir.\nâ€¢ AkÄ±llÄ± Ä°ntro Atlama: Dizi ve filmlerde introyu atla butonuna 7 saniyelik otomatik kaybolma sayacÄ± eklendi.\nâ€¢ OynatÄ±cÄ± MenÃ¼ ve Performans: MenÃ¼ butonlarÄ± ekrana tam oturacak ÅŸekilde dÃ¼zenlendi, kanal aÃ§Ä±lÄ±ÅŸ hÄ±zlarÄ± artÄ±rÄ±ldÄ± ve RAM tÃ¼ketimi dÃ¼ÅŸÃ¼rÃ¼ldÃ¼."
+    "changelog":  "v1.0.75 Güncelleme Notları:\n• Canlı Yayın Jest Koruması: Ekrana yanlışlıkla dokunulduğunda canlı yayını ileri/geri sarma ve kazaen kanal değiştirme sorunu tamamen giderildi.\n• Profil \u0026 Tam Senkronizasyon: Sol menüye tek dokunuşla tüm hesap ve kanal listesini anında yenileyen hızlı senkronizasyon butonu eklendi.\n• Canlı Destek \u0026 WhatsApp Modu: Destek sohbetinde mesaj sızıntısı ve yetki açıkları kapatıldı; 64 kbps hafif sesli mesajlar, ses ve haptic titreşim entegre edildi.\n• Engelli Hesap Bilgilendirmesi: Askıya alınan hesaplar için sohbet girişinde kilit ve bilgilendirme bandı devreye alındı.\n• Hızlı Bildirim Yönlendirmesi: Gelen destek bildirimine tıklandığında doğrudan ilgili canlı sohbet ekranının açılması sağlandı.\n• Performans ve Bellek Tasarrufu: Oynatıcı ve menü geçişleri hızlandırıldı, RAM tüketimi düşürüldü."
 }
